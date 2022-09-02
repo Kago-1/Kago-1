@@ -1,3 +1,4 @@
+<--
 ### Hi there 👋
 
 
@@ -13,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kago-1&count_private=true&theme=tokyonight&showicons=true)]()
